@@ -1,4 +1,4 @@
 
-plotly_api = 'SFmp1mapG424NZGmtzAP'
-plotly_username = 'ttista'
+plotly_api = '************'
+plotly_username = '******'
 
